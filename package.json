@@ -1,6 +1,6 @@
 {
   "name": "@thepit/sf_npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node example",
   "main": "index.js",
   "scripts": {
