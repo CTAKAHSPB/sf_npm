@@ -1,5 +1,5 @@
 {
-  "name": "sf_npm",
+  "name": "@thepit/sf_npm",
   "version": "1.0.0",
   "description": "node example",
   "main": "index.js",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/CTAKAHSPB/sf_npm/issues"
   },
-  "homepage": "https://github.com/CTAKAHSPB/sf_npm#readme"
+  "homepage": "https://github.com/CTAKAHSPB/sf_npm#readme",
+  "dependencies": {
+    "jquery": "^3.7.0"
+  }
 }
